@@ -1,4 +1,4 @@
-# ElevatorAlg
+# Elevator Algorithm
 
 EA.py je jednoduchý Python skript na ktorý potrebujeme len základné veci.
 Nieje potrebné nič kompilovať len stiahnuť a spustiť kód.
