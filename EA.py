@@ -48,7 +48,7 @@ while takeInput == True:
     print("######################")
     print("Hello user, please enter the numbers for the Elevator algorithm.")
     print("Separate them with space and once you are done press enter:")
-    print("You can also write 'quit' to exit the program.")
+    print("You can also write 'quit' at any time to exit the program.")
     userinput1= input("Numbers be larger than 0: ")
     
     if userinput1 =="quit":  
